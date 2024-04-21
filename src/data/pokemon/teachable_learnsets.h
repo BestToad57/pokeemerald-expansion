@@ -1,3 +1,7 @@
+//
+// DO NOT MODIFY THIS FILE! It is auto-generated from tools/learnset_helpers/teachable.py
+//
+
 // *************************************************** //
 // TM/HM moves found in "include/constants/tms_hms.h": //
 // - MOVE_FOCUS_PUNCH                                  //

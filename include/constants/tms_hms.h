@@ -2,9 +2,9 @@
 #define GUARD_CONSTANTS_TMS_HMS_H
 
 #define FOREACH_TM(F) \
-    F(SUPERPOWER) \
+    F(FOCUS_PUNCH) \
     F(DRAGON_CLAW) \
-    F(SCALD) \
+    F(WATER_PULSE) \
     F(CALM_MIND) \
     F(ROAR) \
     F(TOXIC) \
@@ -33,14 +33,14 @@
     F(PSYCHIC) \
     F(SHADOW_BALL) \
     F(BRICK_BREAK) \
-    F(SELF_DESTRUCT) \
+    F(DOUBLE_TEAM) \
     F(REFLECT) \
     F(SHOCK_WAVE) \
     F(FLAMETHROWER) \
     F(SLUDGE_BOMB) \
     F(SANDSTORM) \
     F(FIRE_BLAST) \
-    F(ROCK_SLIDE) \
+    F(ROCK_TOMB) \
     F(AERIAL_ACE) \
     F(TORMENT) \
     F(FACADE) \
@@ -50,7 +50,7 @@
     F(THIEF) \
     F(STEEL_WING) \
     F(SKILL_SWAP) \
-    F(X_SCISSOR) \
+    F(SNATCH) \
     F(OVERHEAT)
 
 #define FOREACH_HM(F) \
